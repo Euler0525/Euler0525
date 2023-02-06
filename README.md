@@ -1,62 +1,53 @@
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+
 <h1 align=center>👋 Hi, I'm <a href="https://www.cnblogs.com/euler0525">Euler0525</a>
 </h2>
 <p align="center">
 <a href="https://www.cnblogs.com/euler0525" target="blank"><img align="center" src="./img/cnblogs.svg" alt="apoorv__tyagi" height="100" width="100" /></a>&nbsp;
-<a href="https://space.bilibili.com/1119602532?spm_id_from=333.1007.0.0" target="blank"><img align="center" src="./img/bilibili.svg" alt="apoorvtyagi" height="60" width="60" /></a>&nbsp;
+<a href="https://space.bilibili.com/1119502532?spm_id_from=333.1007.0.0" target="blank"><img align="center" src="./img/bilibili.svg" alt="apoorvtyagi" height="50" width="50" /></a>&nbsp;
 </p>
-
 ## 🐋 About me
+
+### Introduction
 
 - 🏛️ Undergraduate in Cyberspace security, Beijing Institute of Technology.
 
-- 📖 Currently learning C++ and Docker
+- 📖 Currently learning Nginx and Docker.
 - 🎮 An entry-level CTF player.
 - 📫 Email me at:13804800525@139.com.
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+### Skills
 
+<p align="center">
+    <img src="./img/c.svg" alt="C" width="50" height="50"/>
+    <img src="./img/cplusplus.svg" alt="C++" width="50" height="50"/>
+	<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="CSS" width="50" height="50"/>
+	<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="50" height="50"/>
+	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/> 
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="50" height="50"/> 
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="50" height="50"/> 
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="50" height="50"/> 
+	<img src="https://www.vectorlogo.zone/logos/commonmark/commonmark-official.svg" alt="MarkDown" width="50" height="50"/> 
+	<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySql" width="50" height="50"/>
+	<img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="Php" width="50" height="50"/>
+	<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="50" height="50"/>
+</p>
+<p align="center">
+	<img src="./img/ai.svg" alt="ai" width="50" height="50"/>
+    <img src="./img/au.svg" alt="au" width="50" height="50"/>
+    <img src="./img/pr.svg" alt="pr" width="50" height="50"/>
+    <img src="./img/maple.svg" alt="maple" width="50" height="50"/>
+</p>
 ## 📈 My Github Stats:
 
+### Languages
+
+<img src="https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C" alt="C++"/><img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python"/>
+
+### State
+
 <div align="center">
-<table border="0">
-<tr>
-<td>
-
-![Euler0525's GitHub stats](https://github-readme-stats.vercel.app/api?username=Euler0525&show_icons=true&theme=buefy)
-
-</td>
-<td>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Euler0525&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-
-</td>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=Euler0525&show_icons=true&theme=buefy" alt="Stats" height="150"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Euler0525&layout=compact" alt="Lans" height="150"/> 
 </div>
-
-<p align="center">
-    <img src="./img/c.svg" alt="C" width="60" height="60"/>
-    <img src="./img/cplusplus.svg" alt="C++" width="60" height="60"/>
-	<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="CSS" width="60" height="60"/>
-	<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="60" height="60"/>
-	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/> 
-    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="60" height="60"/> 
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="60" height="60"/> 
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="60" height="60"/> 
-	<img src="https://www.vectorlogo.zone/logos/commonmark/commonmark-official.svg" alt="MarkDown" width="60" height="60"/> 
-	<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySql" width="60" height="60"/>
-	<img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" width="60" height="60"/>
-    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="Php" width="60" height="60"/>
-	<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="60" height="60"/>
-    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="60" height="60"/>
-</p>
-<p align="center">
-	<img src="./img/ai.svg" alt="ai" width="60" height="60"/>
-    <img src="./img/au.svg" alt="au" width="60" height="60"/>
-    <img src="./img/pr.svg" alt="pr" width="60" height="60"/>
-    <img src="./img/maple.svg" alt="maple" width="60" height="60"/>
-</p>
-
-
-
-
-
