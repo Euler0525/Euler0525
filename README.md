@@ -1,23 +1,23 @@
 <div align="center">
 <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="Head">
 </div>
-
 <h1 align=center>👋 Hi, I'm <a href="https://www.cnblogs.com/euler0525">Euler0525</a>
 </h1>
 <p align="center">
-<a href="https://www.cnblogs.com/euler0525" target="blank"><img align="center" src="./img/cnblogs.svg" alt="apoorv__tyagi" height="100" width="100" /></a>&nbsp;
-<a href="https://space.bilibili.com/1119502532?spm_id_from=333.1007.0.0" target="blank"><img align="center" src="./img/bilibili.svg" alt="apoorvtyagi" height="50" width="50" /></a>&nbsp;
+    <a href="https://space.bilibili.com/1119502532?spm_id_from=333.1007.0.0" target="blank"><img align="center" src="./img/bilibili.svg" alt="apoorvtyagi" height="50" width="50" /></a>&nbsp;
+	<a href="https://www.cnblogs.com/euler0525" target="blank"><img align="center" src="./img/cnblogs.svg" alt="apoorv__tyagi" height="100" width="100" /></a>&nbsp;
+	<a href="https://github.com/Euler0525" target="blank"><img align="center" src="./img/github.svg" alt="apoorvtyagi" height="50" width="50" /></a>&nbsp;
 </p>
 <h2> 🐋 About me </h2>
 
-### Introduction
+<h3> Introduction </h3>
 
 - 🏛️ Undergraduate in Cyberspace security, Beijing Institute of Technology.
 - 🎮 An entry-level CTF player.
 - 📖 Currently learning Nginx and Docker.
 - 📫 Email me at:13804800525@139.com.
 
-### Skills
+<h3> Skills </h3>
 
 <p align="center">
     <img src="./img/c.svg" alt="C" width="50" height="50"/>
@@ -43,11 +43,11 @@
 </p>
 <h2> 📈 My Github Stats </h2>
 
-### Languages
+<h3> Languages </h3>
 
 <img src="https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C" alt="C++"/><img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python"/>
 
-### State
+<h3> State </h3>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Euler0525&show_icons=true&theme=buefy" alt="Stats" height="150"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Euler0525&layout=compact" alt="Lans" height="150"/> 
