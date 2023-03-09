@@ -15,7 +15,7 @@
 - 🏛️ Undergraduate in Cyberspace security, Beijing Institute of Technology.
 - 🎮 An entry-level CTF player.
 - 📖 Currently learning Nginx and Docker.
-- 📫 Email me at:13804800525@139.com.
+- 📫 Email me at:euler0525@139.com.
 
 <h3> Skills </h3>
 
