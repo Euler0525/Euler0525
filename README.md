@@ -41,9 +41,11 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Profile" />
 </p>
 
+<!--
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Euler0525&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
+-->
 
 ## 📊 Programming Stats
 
